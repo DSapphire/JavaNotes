@@ -1,0 +1,3 @@
+interface Destination {
+  String readLabel();
+}

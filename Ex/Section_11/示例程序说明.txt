@@ -1,0 +1,29 @@
+P.12 painComponent方法
+	TestPaintComponent.java
+
+P.14,15,16,17 简单图形绘制方法
+	Try.java
+
+P.18 实例：FigurePanel类
+	FigurePanel.java/TestFigurePanel.java
+
+P.20 绘制弧形和扇形举例
+	DrawArcs.java
+
+P.21 绘制和填充多边形、绘制折线
+	TestPolygon.java
+
+P.23 利用Polygon类绘制多边形
+	DrawPolygon.java
+
+P.25 使用FontMetrics类居中显示字符串
+	TestCenterMessage.java
+
+P.26 实例：MessagePanel类
+	MessagePanel.java/TestMessagePanel.java
+
+P.27 实例：StillClock类
+	StillClock.java/DisplayClock.java
+
+P.29 实例：ImageViewer类
+	ImageViewer.java/Cards.java

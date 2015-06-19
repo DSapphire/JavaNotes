@@ -1,0 +1,19 @@
+/*
+ * Square.java
+ *
+ * Created on 2005年8月14日, 下午2:06
+ */
+
+package binding;
+
+/**
+ *
+ * @author  Bluewater
+ */
+public class Square {
+    
+    /** Creates a new instance of Square */
+    public Square() {
+    }
+    
+}

@@ -1,0 +1,19 @@
+/*
+ * Cirlce.java
+ *
+ * Created on 2005年8月14日, 下午2:05
+ */
+
+package binding;
+
+/**
+ *
+ * @author  Bluewater
+ */
+public class Cirlce {
+    
+    /** Creates a new instance of Cirlce */
+    public Cirlce() {
+    }
+    
+}

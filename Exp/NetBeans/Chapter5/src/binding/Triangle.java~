@@ -1,0 +1,19 @@
+/*
+ * Triangle.java
+ *
+ * Created on 2005年8月14日, 下午2:07
+ */
+
+package binding;
+
+/**
+ *
+ * @author  Bluewater
+ */
+public class Triangle {
+    
+    /** Creates a new instance of Triangle */
+    public Triangle() {
+    }
+    
+}

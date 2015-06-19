@@ -1,0 +1,19 @@
+/*
+ * Shape.java
+ *
+ * Created on 2005年8月14日, 下午2:03
+ */
+
+package binding;
+
+/**
+ *
+ * @author  Bluewater
+ */
+public class Shape {
+    
+    /** Creates a new instance of Shape */
+    public Shape() {
+    }
+    
+}

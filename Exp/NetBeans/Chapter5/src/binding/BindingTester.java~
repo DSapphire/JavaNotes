@@ -1,0 +1,19 @@
+/*
+ * BindingTester.java
+ *
+ * Created on 2005年8月14日, 下午2:08
+ */
+
+package binding;
+
+/**
+ *
+ * @author  Bluewater
+ */
+public class BindingTester {
+    
+    /** Creates a new instance of BindingTester */
+    public BindingTester() {
+    }
+    
+}

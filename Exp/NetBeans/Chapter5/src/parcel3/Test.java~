@@ -1,0 +1,11 @@
+package parcel3;
+
+class Test {
+  public static void main(String[] args) {
+    Parcel3 p = new Parcel3();
+    Content c = p.cont();
+    Destination d = p.dest("Tanzania");
+    // Illegal -- can't access private class:
+    //Parcel3.PContents c = p.new PContents();
+  }
+}
